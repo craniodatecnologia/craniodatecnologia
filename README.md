@@ -7,8 +7,7 @@ Sou um desenvolvedor apaixonado por tecnologia e criador da **Crânio da Tecnolo
 ### 🚀 Sobre Mim
 * 🔭 Criador do **Quem Inventou?** e do **Block.io**.
 * 📱 Tenho diversos aplicativos publicados na **Google Play Store**.
-* 📸 Nas horas vagas, sou entusiasta de **fotografia**, **música** e **jogos** (videogames, tabuleiro e cartas).
-* 🍳 E claro, piloto de fogão nas horas vagas.
+* 📸 Nas horas vagas, sou entusiasta de **artes gráficas**, **música** e **jogos** (videogames, tabuleiro e cartas).
 
 ---
 
