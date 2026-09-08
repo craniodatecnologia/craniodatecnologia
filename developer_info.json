@@ -1,7 +1,17 @@
 {
-  "nome": "Bruno Alex de Oliveira",
-  "instagramUrl": "https://instagram.com/brunoaoliveira.dev",
-  "githubUrl": "https://github.com/craniodatecnologia",
-  "whatsappUrl": "https://wa.me/5543996077691",
-  "facebookUrl": "https://facebook.com/brunoaoliveira.dev"
+  "nome": "Bruno Oliveira",
+  "redes": [
+    {
+      "link": "https://facebook.com/brunoaoliveira.dev",
+      "iconeUrl": "https://raw.githubusercontent.com/craniodatecnologia/craniodatecnologia/main/facebook.svg"
+    },
+    {
+      "link": "https://instagram.com/brunoaoliveira.dev",
+      "iconeUrl": "https://raw.githubusercontent.com/craniodatecnologia/craniodatecnologia/main/instagram.svg"
+    },
+    {
+      "link": "https://play.google.com/store/apps/dev?id=9164323135708807953",
+      "iconeUrl": "https://raw.githubusercontent.com/craniodatecnologia/craniodatecnologia/main/playstore.svg"
+    }
+  ]
 }
